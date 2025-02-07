@@ -1,0 +1,12 @@
+# Core
+streamlit
+torch
+torchvision
+
+# Image Processing
+opencv-python-headless
+pillow
+numpy
+
+# Utilities
+matplotlib  # Optional for debugging
