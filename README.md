@@ -109,7 +109,5 @@ streamlit run app.py
 ## License 📄
 MIT License - See [LICENSE](LICENSE) file
 
----
 
 **Note:** Torch path warnings (`__path__._path`) are normal and can be safely ignored.
-```
