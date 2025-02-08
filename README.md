@@ -2,7 +2,9 @@
 
 Colorize black & white images using deep learning (GAN) and traditional computer vision (LAB) methods.
 
-![Interface Demo](demo.png) <!-- Add your demo image path -->
+![Interface Demo](project.webp)  
+![Result](1.jpg)  
+![Comparison](2.jpg)   <!-- Add your demo image path -->
 
 ## Features ✨
 - **Dual Colorization Modes**
