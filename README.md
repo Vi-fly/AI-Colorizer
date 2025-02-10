@@ -2,9 +2,6 @@
 
 Colorize black & white images using deep learning (GAN) and traditional computer vision (LAB) methods.
 
-![Interface Demo](images/project.webp)  
-
-
 ## Output Comparison  
 <div align="center">
   <img src="images/1.jpg" width="45%" alt="Black & White Image">
@@ -84,6 +81,9 @@ streamlit run app.py
     ├── colorize.py       # CV processing
     └── model/            # Caffe models
 ```
+
+![Interface Demo](images/flowchart/project.webp)  
+
 
 ## Troubleshooting ⚠️
 
